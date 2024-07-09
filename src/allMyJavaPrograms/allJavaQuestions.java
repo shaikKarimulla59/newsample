@@ -51,7 +51,7 @@ public class  allJavaQuestions {
 		System.out.println("| [38]Write a program to print all Prime Factors of a Given Number?                                                                                                                            |");		
 		System.out.println("| [39]Write a program to find Sum of all prime numbers between the Given values.                                                                                                               |");
 		System.out.println("| [40]Write a program to print all factors of the Given Number.                                                                                                                                |");
-		System.out.println("| [41] Write a Program to print the Nearest Prime Number of a Given Number?                                                      |");
+		System.out.println("| [41]Write a Program to print the Nearest Prime Number of a Given Number?                                                      |");
 		System.out.println("| [42]Write a program to swap the Given two numbers. ( without Using third variable)                                                                                    |");
 		System.out.println("| [43]Write a program to swap Given two numbers.                                                                                                                                               |");
 		System.out.println("| [44]Write a program to print Fibonacci Series Between the Given Range.                                                                                         |");
